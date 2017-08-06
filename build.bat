@@ -1,2 +1,2 @@
-cl /Od /EHsc /LD /nologo dllmain2.cpp
-cl /Od /EHsc /DWIN32 /nologo injector2.cpp /link /SUBSYSTEM:CONSOLE 
+cl /Od /EHsc /LD /nologo dllmain.cpp
+cl /Od /EHsc /DWIN32 /nologo injector.cpp /link /SUBSYSTEM:CONSOLE 
